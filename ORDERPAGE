@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+  <title>Your Name - Personal Website</title>
+</head>
+<body 
+    style="font-family: Arial, sans-serif; 
+           margin: 0; padding: 0; 
+           background-image: url('ALBINO.jpg'); 
+           background-size: cover; 
+           background-position: right top; 
+           background-repeat: no-repeat; 
+           color:#000000;
+           text-shadow: 0 0 10px #ffff, 0 0 20px #ffff, 0 0 30px #ffff; "
+>
+
+  <header 
+    style="background-image: url('https://i.gifer.com/9akO.gif');  
+           padding: 10px 20px; 
+           font-size: 25px; 
+           text-align: center; 
+           position: relative; 
+           backdrop-filter: blur(10px); 
+           color: #000000;
+           text-shadow: 0 0 10px #ffff, 0 0 20px #ffff, 0 0 30px #ffff; 
+           box-shadow: 0 0 20px rgb(255, 255, 255); 
+           border-bottom-left-radius: 20px; 
+           border-bottom-right-radius: 20px;"> 
+    <h1>⚝ Welcome ⚝</h1> 
+    <p>⚝ This is my person★l website ⚝</p>
+  </header>
+
+  <div class="container" 
+    style="max-width: 800px; 
+           margin: 20px auto; 
+           padding: 0 20px; 
+           overflow: auto; 
+           backdrop-filter: blur(10px); 
+           border-radius: 20px; 
+           text-shadow: 0 0 10px #ffff, 0 0 20px #ffff, 0 0 30px #ffff;">
+    <section id="home">
+      <h2>★ Home</h2>
+      <p>Welcome to my personal website. My name is Albert Guzman, from INF-222. This website isn't something I would use for portfolios, it's more of a personal website where is reflects my character and personality. This is a practice website, test for layouts and effects.</p>
+    </section>
+  </div>
+
+  <footer 
+    style="background-image: url('https://i.gifer.com/5ogn.gif'); 
+           color: #000000;
+           text-align: center; 
+           padding: 10px 0; 
+           position: fixed; 
+           bottom: 0; 
+           width: 100%; 
+           backdrop-filter: blur(50px); 
+           text-shadow: 0 0 10px #ffff, 0 0 20px #ffff, 0 0 30px #ffff; 
+           box-shadow: 0 0 20px rgb(255, 255, 255); 
+           border-top-left-radius: 20px; 
+           border-top-right-radius: 20px;">
+    <p>✪ By, ☆lbert Guzman, Inspired by Suckerpunch Production Studios: Infamous ✩</p>
+  </footer>
+
+</body>
+</html>
