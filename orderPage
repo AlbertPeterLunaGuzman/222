@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<head></head>
+<body 
+    style="font-family: Arial, sans-serif; 
+	   background-image: url('https://cdn.dribbble.com/users/76620/screenshots/1909179/media/ed9f95dbb7122839c668bea085d4f06f.gif');  
+	   margin:0px;
+	   padding: 0px;
+       padding-bottom: 100px;
+	   justify-content: center;
+           background-size: cover; 
+           background-position: right top; 
+           background-repeat: no-repeat; 
+           color:#000000;
+           text-shadow: 0 0 10px #ffff, 0 0 20px #ffff, 0 0 30px #ffff;"
+>
+
+<header 
+    style="background-size: cover;
+           padding: 10px 20px; 
+           font-size: 25px; 
+           text-align: center; 
+           position: relative; 
+           backdrop-filter: blur(10px); 
+           color: #000000;
+           text-shadow: 0 0 10px #ffff, 0 0 20px #ffff, 0 0 30px #ffff; 
+           box-shadow: 0 0 20px rgb(0, 0, 0);
+           border-bottom-left-radius: 20px; 
+           border-bottom-right-radius: 20px;"> 
+    <h1>⚝ MASARAP ⚝</h1> 
+    <p>⚝ MASARAP DITO BILI NA KAYO ⚝</p>
+</header>
+
+<div class="BORGER CONTAINER"
+  style="max-width: 800px; 
+         margin: 20px auto; 
+         padding: 0 20px; 
+         overflow: auto; 
+         backdrop-filter: blur(10px); 
+         box-shadow: 0 0 20px rgb(0, 0, 0); 
+         border-radius: 20px; 
+         text-shadow: 0 0 10px #ffff, 0 0 20px #ffff, 0 0 30px #ffff;">
+  <section style="display: flex;">
+    <div style="margin: 10px; 
+                padding: 10px;">
+      <img style="width: 150px; 
+                  height: 100px;
+                  border-radius: 20px;" 
+            src="https://www.foodandwine.com/thmb/pwFie7NRkq4SXMDJU6QKnUKlaoI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg"
+      />
+    </div>
+    <div style="text-align: left;">
+      <h1>★ Borger</h1>
+      <p>Masarap na borger</p>
+    </div>
+    </section>
+    <div style="padding:10px; 
+                display: flex;">
+        <p style="margin-top: 6px;">
+            ★ Enter order amount 
+        </p>
+            <input style="border-radius: 20px;
+                          padding: 10px;
+                          margin-left: 10px;
+                          width: 50px;
+                          height: 10px;"
+            type="number"
+            min="1"/>
+    </div>
+</div>
+
+<div class="AYSCREAM CONTAINER"
+  style="max-width: 800px; 
+         margin: 20px auto; 
+         padding: 0 20px; 
+         overflow: auto; 
+         backdrop-filter: blur(10px); 
+         box-shadow: 0 0 20px rgb(0, 0, 0); 
+         border-radius: 20px; 
+         text-shadow: 0 0 10px #ffff, 0 0 20px #ffff, 0 0 30px #ffff;">
+  <section style="display: flex;">
+    <div style="margin: 10px; 
+                padding: 10px;">
+      <img style="width: 150px; 
+                  height: 100px;
+                  border-radius: 20px;" 
+            src="https://cdn.loveandlemons.com/wp-content/uploads/2023/06/homemade-ice-cream.jpg"
+      />
+    </div>
+    <div style="text-align: left;">
+      <h1>★ AYSCREAM</h1>
+      <p>Masarap na ayscream</p>
+    </div>
+    </section>
+    <div style="padding:10px; display: flex;">
+        <p style="margin-top: 6px;">
+            ★ Enter order amount 
+        </p>
+            <input style="border-radius: 20px;
+                          padding: 10px;
+                          margin-left: 10px;
+                          width: 50px;
+                          height: 10px;"
+            type="number"
+            min="1"/>
+    </div>
+</div>
+
+<div class="PRENTSPRAYS CONTAINER"
+  style="max-width: 800px; 
+         margin: 20px auto; 
+         padding: 0 20px; 
+         overflow: auto; 
+         backdrop-filter: blur(10px); 
+         box-shadow: 0 0 20px rgb(0, 0, 0); 
+         border-radius: 20px; 
+         text-shadow: 0 0 10px #ffff, 0 0 20px #ffff, 0 0 30px #ffff;">
+  <section style="display: flex;">
+    <div style="margin: 10px; 
+                padding: 10px;">
+      <img style="width: 150px; 
+                  height: 100px;
+                  border-radius: 20px;" 
+            src="https://recipetineats.com/wp-content/uploads/2022/09/Fries-with-rosemary-salt_1.jpg"
+      />
+    </div>
+    <div style="text-align: left;">
+      <h1>★ PRENTSPRAYS</h1>
+      <p>Masarap na prentsprays</p>
+    </div>
+    </section>
+    <div style="padding:10px; display: flex;">
+        <p style="margin-top: 6px;">
+            ★ Enter order amount 
+        </p>
+            <input style="border-radius: 20px;
+                          padding: 10px;
+                          margin-left: 10px;
+                          width: 50px;
+                          height: 10px;"
+            type="number"
+            min="1"/>
+    </div>
+</div>
+  <footer 
+    style="color: #000000;
+           text-align: center; 
+           padding: 10px 0; 
+           position: fixed; 
+           bottom: 0; 
+           width: 100%; 
+           backdrop-filter: blur(10px);
+           text-shadow: 0 0 10px #ffff, 0 0 20px #ffff, 0 0 30px #ffff; 
+           box-shadow: 0 0 20px rgb(0, 0, 0); 
+           border-top-left-radius: 20px; 
+           border-top-right-radius: 20px;">
+    <p>✩✩✩ ORDER PAGE ✩✩✩</p>
+  </footer>
+
+</body>
+</html>
